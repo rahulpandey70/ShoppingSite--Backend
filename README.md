@@ -7,4 +7,4 @@
 * CryptoJs(for password encryption)
 * JWT(json web token)
 * Postman (for api testing)
-
+* Stripe (for payment)
